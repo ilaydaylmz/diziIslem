@@ -1,4 +1,4 @@
-# nesne_sinif_olusturma
+# DİZİ ÜZERİNDE İŞLEMLER
 BenimString isimli bir nesne bazlı sınıf oluşturmanız istenmektedir. 
 Bu sınıfta yer alacak üye metodlar:</p>
 ElemanSayısı : nensedeki eleman sayısını verecek(string sınıfı size metodu gibi)</p>
